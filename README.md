@@ -1,1 +1,1 @@
-<h1 font-color="red">My first Git!!</h1> 
+<h1>My first Git!!</h1> 
